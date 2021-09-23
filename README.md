@@ -65,10 +65,10 @@ python3 main.py
 
 * TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
-* MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelIDHEXbot](https://telegram.dog/channelidhexbot)
+* MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [MY MOVIES](https://telegram.dog/anymoviefre)
 
 ## Credits
 
 [![Nope](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/blackhawk606)
+And as always, [BLACK HA2K](https://telegram.dog/blackhawk606)
