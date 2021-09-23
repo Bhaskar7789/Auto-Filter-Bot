@@ -39,7 +39,7 @@
 * Bot will work now :)
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/blackhawk606)
+## Any bugs or errors or suggestions, report at [ahhhqrgg](https://telegram.dog/blackhawk606)
 
 
 ## Installation
