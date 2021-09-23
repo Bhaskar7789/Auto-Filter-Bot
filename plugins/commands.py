@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @blackhawk606
 
 
 from pyrogram import Client, filters
@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/anymoviefre")
                     ]
                 ]
             ),
@@ -45,7 +45,8 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/anymoviefre
+                            ")
                     ]
                 ]
             ),
@@ -68,7 +69,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot")
+                            "SOURCE CODE", url="https://github.com/Bhaskar7789/Auto-Filter-Bot")
                     ]
                 ]
             ),
